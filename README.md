@@ -6,13 +6,14 @@
 
 ​		Open  https://1pone.github.io in your Kindle browser now!
 
-<div align=center><img src="https://raw.githubusercontent.com/1pone/1pone.github.io/master/images/banner.png" alt="banner.png" width="800"/>
+<div align=center><img src="https://raw.githubusercontent.com/1pone/KindleSavior/master/images/banner.png" alt="banner.png" width="800"/>
   </p></div>
+
 # Notice
 
 In order to turn off the automatic lock screen and keep screen always on, please enter `~ds` in the search field of the Kindle homepage and press Enter. There will be no obvious response at this time, but when you try to press the lock screen button, the screen cannot be locked, that is In force. Restart the Kindle when you want to restore the normal lock screen.
 
-<div align=center><img src="https://raw.githubusercontent.com/1pone/1pone.github.io/master/images/%EF%BD%9Eds.png" alt="～ds.png" width="400"/><p>「  enter ~ds to keep screen always on 」</p></div>
+<div align=center><img src="https://raw.githubusercontent.com/1pone/KindleSavior/master/images/%EF%BD%9Eds.png" alt="～ds.png" width="400"/><p>「  enter ~ds to keep screen always on 」</p></div>
 
 # Feature
 
@@ -27,15 +28,15 @@ In order to turn off the automatic lock screen and keep screen always on, please
 |     Daily verse      |              |                   | Auto- light-dark |
 | Weibo trending topic |              |                   |     Picture      |
 
-<div align=center><img src="https://raw.githubusercontent.com/1pone/1pone.github.io/master/images/feature.png" alt="feature.png" width="600"/><p>「 Click the modules in different parts to switch different modules 」</p></div>
+<div align=center><img src="https://raw.githubusercontent.com/1pone/KindleSavior/master/images/feature.png" alt="feature.png" width="600"/><p>「 Click the modules in different parts to switch different modules 」</p></div>
 
 
 
-<div align=center><img src="https://raw.githubusercontent.com/1pone/1pone.github.io/master/images/landscape.png" alt="landscape.png" width="600"/><p>「 supports landscape mode 」</p></div>
+<div align=center><img src="https://raw.githubusercontent.com/1pone/KindleSavior/master/images/landscape.png" alt="landscape.png" width="600"/><p>「 supports landscape mode 」</p></div>
 
 
 
-<div align=center><img src="https://raw.githubusercontent.com/1pone/1pone.github.io/master/images/cookie.png" alt="cookie.png" width="600"/><p>「 Use cookies to save your custom configuration 」</p></div>
+<div align=center><img src="https://raw.githubusercontent.com/1pone/KindleSavior/master/images/cookie.png" alt="cookie.png" width="600"/><p>「 Use cookies to save your custom configuration 」</p></div>
 
 # Note
 
