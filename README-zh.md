@@ -37,5 +37,6 @@
 
 <div align=center><img src="https://raw.githubusercontent.com/1pone/1pone.github.io/master/images/cookie.png" alt="cookie.png" width="600"/><p>「 下一次打开自动显示上一次的配置 」</p></div>
 
-## 更新日志
+# 备注
 
+这是我的另一个项目的精简版，用于推广，更多详细信息请访问 https://github.com/1pone/1pone.github.io

@@ -1,4 +1,4 @@
-#####[中文]()
+##### [中文文档](https://github.com/1pone/KindleSavior/blob/master/README-zh.md)
 
 > Is your Kindle still hiding in the corner and eating ashes? Take it out and wipe it up. Instead of leaving it idle, let it become an ink-screen clock, which is both practical and stylish. Of course, it can do much more than a clock...
 
@@ -37,6 +37,7 @@ In order to turn off the automatic lock screen and keep screen always on, please
 
 <div align=center><img src="https://raw.githubusercontent.com/1pone/1pone.github.io/master/images/cookie.png" alt="cookie.png" width="600"/><p>「 Use cookies to save your custom configuration 」</p></div>
 
-#Note
+# Note
 
 This is a condensed version of another project of mine for promotion. For more details, please visit https://github.com/1pone/1pone.github.io
+
